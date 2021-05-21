@@ -1,4 +1,4 @@
-학습하는 내용 적기 
+What I learned today
 # 정규표현식(RegExp)
 
 정규식, Regular Expression
